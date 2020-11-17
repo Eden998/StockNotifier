@@ -1,2 +1,2 @@
-# StockNotifier
-Stock Notifications
+# SudokuSolver
+Sudoku AI Solver with backtracking algorithm.
